@@ -50,3 +50,32 @@ $back-to-top-width: $back-to-top-diameter;
 
 // Max width default
 $max-content-width: 930px !default;
+
+//light/dark mode colors
+$light-bg-color: #f5ecd7;
+$light-text-color: #221d16;
+$light-text-color-light: #9e9080;
+$light-theme-color: #7d3e22; // rust — links, accents
+$light-hover-color: #7d3e22;
+$light-hover-text-color: #f5ecd7;
+$light-footer-bg-color: #ede3c9;
+$light-footer-text-color: #9e9080;
+$light-footer-link-color: #7d3e22;
+$light-divider-color: #c8bba4;
+$light-card-bg-color: #ede3c9;
+$light-code-bg-color: #e8dfc8;
+$light-highlight-color: #7d3e22;
+
+$dark-bg-color: #1a1830;
+$dark-text-color: #e8e3d5;
+$dark-text-color-light: #9e98c0;
+$dark-theme-color: #c9a84c; // amber horizon
+$dark-hover-color: #c9a84c;
+$dark-hover-text-color: #1a1830;
+$dark-footer-bg-color: #201e35;
+$dark-footer-text-color: #9e98c0;
+$dark-footer-link-color: #c9a84c;
+$dark-divider-color: #39355a;
+$dark-card-bg-color: #201e35;
+$dark-code-bg-color: #252240;
+$dark-highlight-color: #c9a84c;
