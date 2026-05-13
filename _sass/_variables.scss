@@ -52,12 +52,13 @@ $back-to-top-width: $back-to-top-diameter;
 $max-content-width: 930px !default;
 
 //light/dark mode colors
-$light-bg-color: #f5ecd7;
+$light-bg-color: #f7f3ea;
 $light-text-color: #221d16;
 $light-text-color-light: #9e9080;
 $light-theme-color: #7d3e22; // rust — links, accents
+$light-secondary-theme-color: #4a6648;
 $light-hover-color: #7d3e22;
-$light-hover-text-color: #f5ecd7;
+$light-hover-text-color: #f7f3ea;
 $light-footer-bg-color: #ede3c9;
 $light-footer-text-color: #9e9080;
 $light-footer-link-color: #7d3e22;
@@ -79,3 +80,4 @@ $dark-divider-color: #39355a;
 $dark-card-bg-color: #201e35;
 $dark-code-bg-color: #252240;
 $dark-highlight-color: #c9a84c;
+$dark-secondary-theme-color: #7a9e85;
