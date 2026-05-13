@@ -8,6 +8,15 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: "EB Garamond", Georgia, serif;
+
+  code,
+  mono,
+  pre,
+  kbd,
+  samp {
+    font-family: "Fira Code", monospace;
+  }
 
   h1,
   h2,
