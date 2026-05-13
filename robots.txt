@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://laksherthanlife.github.io/laksherthanlife/sitemap.xml
+Sitemap: https://laksherthanlife.github.io/sitemap.xml
