@@ -119,6 +119,9 @@ html[data-theme="dark"] {
   .only-dark {
     display: block;
   }
+
+  --background:
+    radial-gradient(circle at 50% 0%, rgba(104, 84, 135, 0.16), transparent 25rem), linear-gradient(180deg, #24213a 0%, #1b1b2f 42%, #171625 100%);
 }
 
 html[data-theme-setting="dark"] {

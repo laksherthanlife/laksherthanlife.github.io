@@ -4,11 +4,17 @@
 
 @use "variables" as v;
 
+html {
+  font-size: 18px;
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+  background: var(--background, var(--global-bg-color));
   font-family: "EB Garamond", Georgia, serif;
+  line-height: 1.65;
+  font-weight: 400;
 
   code,
   mono,
@@ -26,8 +32,7 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
-
-  font-size: 18px;
+  font-size: 24px;
 }
 
 body.fixed-top-nav {
